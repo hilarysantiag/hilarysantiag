@@ -1,7 +1,7 @@
 ## Hello World! (●'◡'●)
 
 <div>
-  <img align="left" alt="Hilary-algo" height="300" width="300" src="https://cdnb.artstation.com/p/assets/images/images/063/963/017/original/ana-luiza-speda-raposinha.gif?1686770301">
+  <img align="left" alt="Hilary-algo" height="300" width="300" src="https://birduyen.com/cdn/shop/files/T_NoBG_500_320x.gif?v=1637009275">
  
 </div>
 
