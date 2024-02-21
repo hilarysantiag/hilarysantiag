@@ -1,5 +1,7 @@
 ## Hello World! (●'◡'●)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilarysantiag&show_icons=true&theme=onedark)
+
 <div>
   <img align="left" alt="Hilary-algo" height="300" width="300" src="https://birduyen.com/cdn/shop/files/T_NoBG_500_320x.gif?v=1637009275">
  
@@ -33,5 +35,6 @@
 </div>
 
 ##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilarysantiag&hide_progress=true&theme=onedark)
 
 
