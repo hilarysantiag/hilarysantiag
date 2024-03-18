@@ -18,6 +18,8 @@
   <img align="center" alt="Hilary-sql" height="30" width="80" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img align="center" alt="Hilary-oracle" height="30" width="80" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <img align="center" alt="Hilary-oracle" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Hilary-oracle" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt="Hilary-oracle" height="30" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 ### 🌐 Minhas redes
