@@ -5,20 +5,19 @@
 ### 🚀 Sobre mim:
 
    🖥 Estudante de Engenharia de Software     
-   ⚙  Dev Backend/Web                                           
-   🎮🕹   Muito nerd e muito gamer, fãzona de Cyberpunk 2077 =D
+   ⚙  Dev Frontend/Web                                           
+   🎮🕹   Muito nerd e muito gamer
 
 ### 💻 Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Hilary-Csharp" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Hilary-NET" height="30" width="60" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" alt="Hilary-ruby" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Hilary-sql" height="30" width="80" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-  <img align="center" alt="Hilary-oracle" height="30" width="80" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-  <img align="center" alt="Hilary-oracle" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Hilary-oracle" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-   <img align="center" alt="Hilary-oracle" height="30" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Hilary-RUBY" height="28" width="80" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img align="center" alt="Hilary-ruby on rails" height="28" width="128" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+  <img align="center" alt="Hilary-javascript" height="28" width="127" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Hilary-typescript" height="28" width="127" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Hilary-HTML" height="28" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt="Hilary-CSS" height="28" width="62" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+   <img align="center" alt="Hilary-SQL" height="28" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 ### 🌐 Minhas redes
