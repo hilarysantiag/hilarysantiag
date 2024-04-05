@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=FF00F6&random=false&width=500&lines=Ol%C3%A1+mundo!+Sou+a+Hilary;Desenvolvedora+Web+" alt="Typing SVG" /></a>
 
-
-
 <h3 align="left">Tecnologias</h3
                               
 <div>
