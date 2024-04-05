@@ -5,20 +5,13 @@
 <div>
 <div style="display: inline_block"><br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="25" alt="ruby logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" height="30" alt="ruby logo" /> 
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="ruby logo" /> 
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="ruby logo" /> 
-          
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF00F6" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF00F6" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF00F6" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF00F6" />
+  <img align="center" alt="rb" src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=FF00F6" />
+  <img align="center" alt="rails" src="https://img.shields.io/badge/Ruby_on_Rails-000000?style=for-the-badge&logo=ruby-on-rails&logoColor=FF00F6" />
+  <img align="center" alt="rails" src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF00F6" />
           
 </div>
 
