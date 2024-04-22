@@ -1,17 +1,17 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=FF00F6&random=false&width=500&lines=Ol%C3%A1+mundo!+Sou+a+Hilary;Desenvolvedora+Web+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&random=false&width=435&lines=Ol%C3%A1+mundo!+Sou+a+Hilary+%3A);Desenvolvedora+FullStack;Desenvolvedora+Java" alt="Typing SVG" /></a>
 
 <h3 align="left">Tecnologias</h3
                               
 <div>
 <div style="display: inline_block"><br>
 <div align="left">
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF00F6" />
+  <img align="center" alt="sprin" src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=FF00F6" />
+  <img align="center" alt="ang" src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=FF00F6" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF00F6" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF00F6" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF00F6" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF00F6" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF00F6" />
-  <img align="center" alt="rb" src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=FF00F6" />
-  <img align="center" alt="rails" src="https://img.shields.io/badge/Ruby_on_Rails-000000?style=for-the-badge&logo=ruby-on-rails&logoColor=FF00F6" />
-  <img align="center" alt="rails" src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF00F6" />
+  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF00F6" />
           
 </div>
 
