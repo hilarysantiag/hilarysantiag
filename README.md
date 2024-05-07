@@ -1,6 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&random=false&width=435&lines=Ol%C3%A1+mundo!+Sou+a+Hilary+%3A);Desenvolvedora+FullStack;Desenvolvedora+Java" alt="Typing SVG" /></a>
 
-<h3 align="left">Tecnologias</h3
+<h4 align="left"> 🔌Conecte-se comigo / Connect with me </h4>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/hilarysantiag/)
+
+</div>
+
+<h4 align="left">Tecnologias / Stacks </h4
                               
 <div>
 <div style="display: inline_block"><br>
@@ -17,10 +23,9 @@
 
 
 <div> 
-  <h3 align="left">Fale comigo!</h3>
+  <h4 align="left">Fale comigo! / Talk to me! </h4>
    
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:hilary.pessoal@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/hilarysantiag/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com//)
 
 </div>
